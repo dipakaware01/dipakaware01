@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dipakaware01
-- 👀 I’m interested and trying to learn new technologies and also DEVOPS SDLC
-- 🌱 I’m currently learning java, mysql also interested in Web Development.
+- 👀 I’m interested and trying to learn new technologies
+- 🌱 I’m currently working in Data Engineering domain and cloud.
 - 💞️ I’m looking to collaborate and Contribute to as many open source project as possible.
 - 📫 How to reach me www.linkedin.com/in/dipak-aware-5221a7227
 
